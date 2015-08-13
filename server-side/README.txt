@@ -11,3 +11,6 @@ Taylor them to your needs if you like.
 
 Important: if your Apache server is not configured with Multiviews
 enabled, you have to add ".php" into the files.
+
+For the OSM version, you will need ''OpenLayers.js'' (available here:
+http://www.openlayers.org/api/OpenLayers.js) and a marker in img/marker.png alongside.
